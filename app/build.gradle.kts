@@ -28,7 +28,7 @@ kotlin {
 }
 
 android {
-    namespace = "org.jellyfin.mobile"
+    namespace = "com.tezzstream.mobile"
     compileSdk = 36
 
     defaultConfig {
